@@ -1,6 +1,6 @@
 An operating system for real mode 16 bit 80x86 DOS for dsx86.nds for Nintendo DS /DS Lite /DSi XL / DS Lite
 
-Download dsx86.nds by Patrick Aalto from here: https://dsx86.patrickaalto.com/ .
+Download DSx86.nds by Patrick Aalto from here: https://dsx86.patrickaalto.com/ .
 Put it in your ROMS folder. I use TwilightMenu++ by Rocket Robz.
 Download 4DOS from the same link. I already made the 4DOS directory for you: /data/dsx86/4DOS.
 
