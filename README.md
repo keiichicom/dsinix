@@ -11,7 +11,7 @@ I setup the data folder for you.
 
 Start dsx86.nds and when the dos prompt loads, run the dos program dsinix.com, type help for help.
 
-Notes: The beep command emits really short low volume tone.
+Notes: The beep command emits a really short low volume tone.
        To return to the shell from graphics mode after entering the icon command press ESC.
        Some stuff is faked, since this is a proof-of-concept release.
 
