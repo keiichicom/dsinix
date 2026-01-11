@@ -1,5 +1,7 @@
 An operating system for real mode 16 bit 80x86 DOS for dsx86.nds for Nintendo DS /DS Lite /DSi XL / DS Lite
 
+2025-01-11 Command Set now includes: ls, cd, pwd, cat, touch, mkdir, rm, mv, head, tail, find, grep, sed, time, whoami, uname, clear, echo, sync, icon, beep, exit
+
 2025-12-18 Added real ls command with paging, added clear command.
 
 Download DSx86.nds by Patrick Aalto from here: https://dsx86.patrickaalto.com/ .
